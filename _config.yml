@@ -18,7 +18,7 @@ title: GlobalArchive User Manual
 email:
 description: "Using GlobalArchive"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: #
+url: "https://GlobalArchiveManual.github.io"
 author: 
   name: Brooke Gibbons
   twitter:
