@@ -10,11 +10,11 @@ permalink: /import-workflow
 2. Make your data sets to import (e.g. Metadata and either EM data tables or generic data)
  
 3. To upload Campaign data, in the menu bar click on Data, then click on “Create a New Campaign” (see blue box in Figure 2). <br/><br/>
- <img src='/assets/images/Fig2.png' vspace="5" align='center' width="100%" >
+ <img src='/images/Fig2.png' vspace="5" align='center' width="100%" >
  <b>Figure 2.</b> <i>Create a New Campaign</i>
  
 4. A modal window will open (Figure 3). <br/><br/>
- <img src='/assets/images/Fig3.png' vspace="5" align='center' width="80%" > <br/>
+ <img src='/images/Fig3.png' vspace="5" align='center' width="80%" > <br/>
  <b>Figure 3.</b> <i>Modal window showing options for Uploading a new Campaign</i>
  
 5. The upload type of datatables must be specified, either:
