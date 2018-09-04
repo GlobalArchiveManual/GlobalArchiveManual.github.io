@@ -12,6 +12,9 @@ actions:
   - label: "Visit GlobalArchive"
     icon: arrow-right
     url: "http://globalarchive.org/"
+  - label: "Visit Github"
+    icon: github
+    url: "https://github.com/GlobalArchiveManual"
 ---
 ## Summary of GlobalArchive
 **GlobalArchive provides:**
