@@ -6,7 +6,7 @@ GlobalArchive ingests a [spatial metadata file](https://globalarchivemanual.gith
 
 Once uploaded into GlobalArchive the generic or standardised datatable can be queried by predefined (e.g. MaxN) or custom queries. In addition, any other associated data and files may be queried with the spatial metadata file.
 
-<img src='/assets/images/Fig1.jpg' vspace="5" align='center' width="100%" >
+<img src='/images/Fig1.jpg' vspace="5" align='center' width="100%" >
 <b>Figure 1.</b> <i>Overview of GlobalArchive import workflow</i>
 
 #### <a name="Eventmeasure-observation-files-(.EMObs)"></a>Eventmeasure observation files (.EMObs)
