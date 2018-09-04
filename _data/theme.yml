@@ -35,7 +35,7 @@ google_fonts:
 
 navigation_pages:
   - 02-data-privacy.md
-  - 03-data-sharing-agreements.md
+#  - 03-data-sharing-agreements.md
   - 04-objectives-and-case-study.md
 #  - 05-using-this-guide.md
   - 06-typical-workflow.md
