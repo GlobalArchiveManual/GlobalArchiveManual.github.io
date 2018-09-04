@@ -16,8 +16,7 @@ actions:
     icon: github
     url: "https://github.com/GlobalArchiveManual"
 ---
-## Summary of GlobalArchive
-**GlobalArchive provides:**
+## GlobalArchive provides:
 * A secure archive of metadata and associated annotation or other data or files, with a focus on stereo techniques
 * A standalone database for a [Project](https://globalarchivemanual.github.io/guide/definitions#project)
 * Sharing of data in [Project](https://globalarchivemanual.github.io/guide/definitions#Projects) or [Collaborations](https://globalarchivemanual.github.io/guide/definitions#Collaborations)
