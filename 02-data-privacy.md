@@ -1,5 +1,5 @@
 ---
-permalink: /guide/data-privacy
+permalink: /data-privacy
 title: "Data Privacy"
 ---
 All data uploaded to GlobalArchive is held securely within NeCTAR Cloud infrastructure and then encrypted within a secure industry standard database.

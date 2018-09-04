@@ -1,5 +1,5 @@
 ---
-permalink: /guide/habitat
+permalink: /habitat
 title: "Habitat data"
 ---
 The strongly recommend associated habitat data is imported a as point scores. Following this standard format:

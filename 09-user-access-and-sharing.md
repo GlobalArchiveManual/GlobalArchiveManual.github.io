@@ -1,6 +1,6 @@
 ---
 title: "User access and sharing"
-permalink: /guide/user-access-and-sharing
+permalink: /user-access-and-sharing
 ---
 #### <a name="User"></a>User
 * User registration and login provides secure access to the Campaigns and project you upload and that are shared with you. 

@@ -1,6 +1,6 @@
 ---
 title: "Summary of GlobalArchive"
-permalink: /guide/summary-of-globalarchive
+permalink: /summary-of-globalarchive
 ---
 
 **GlobalArchive provides:**

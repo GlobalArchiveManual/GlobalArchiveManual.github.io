@@ -1,5 +1,5 @@
 ---
-permalink: /guide/metadata-file
+permalink: /metadata-file
 title: "Creating the Metadata file"
 ---
 The Metadata file can be prepared in excel or google sheets and must be saved as a comma-separated values file (.csv). 

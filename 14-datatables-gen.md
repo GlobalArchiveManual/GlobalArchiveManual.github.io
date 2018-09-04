@@ -1,5 +1,5 @@
 ---
-permalink: /guide/generic-datatables
+permalink: /generic-datatables
 title: "Generating generic count, length and mass data"
 ---
 If you do not use EventMeasure or have historical data that pre-dates EventMeasure or you have made changes to data or corrected errors outside of the annotation files (.EMObs) and this changed data is now the “true” copy of the data (e.g. in excel) you will have to import generic files (e.g. Count, Length and Mass).

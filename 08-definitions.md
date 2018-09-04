@@ -1,5 +1,5 @@
 ---
-permalink: /guide/definitions
+permalink: /definitions
 title: "Definitions"
 layout: single
 toc: true

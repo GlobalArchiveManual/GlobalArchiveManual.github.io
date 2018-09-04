@@ -1,6 +1,6 @@
 ---
 title: "Import workflows"
-permalink: /guide/import-workflow
+permalink: /import-workflow
 ---
 ### What you need to know
 

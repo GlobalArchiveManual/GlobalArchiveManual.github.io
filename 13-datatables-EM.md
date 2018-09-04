@@ -1,5 +1,5 @@
 ---
-permalink: /guide/eventmeasure-datatables
+permalink: /eventmeasure-datatables
 title: "Generating datatables from Eventmeasure"
 ---
 This function is designed to export data tables that contain all the information held within EventMeasure data files (.EMObs files) to facilitate uploading to and archiving data in GlobalArchive. Full details are given in the “EM Database export manual.pdf” found within the GlobalArchive google drive folder or supplied with the EM software.			
