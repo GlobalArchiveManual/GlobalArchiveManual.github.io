@@ -1,6 +1,6 @@
 ---
 permalink: /campaign-information
-title: "Adding the Campaign information"
+title: "Add campaign information"
 ---
 For each Campaign, additional Campaign information on the Sampling and Annotation methods can be included to help with interpretation of data for synthesis and standardisation.
 
