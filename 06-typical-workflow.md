@@ -1,5 +1,5 @@
 ---
-title: "Typical Workflow"
+title: "Typical workflow"
 permalink: /typical-workflow
 ---
 GlobalArchive ingests a [spatial metadata file](https://globalarchivemanual.github.io/guide/metadata-file) that can be associated with generic annotation files (e.g. [count, length and mass data](https://globalarchivemanual.github.io/guide/generic-datatables)) or a set of [standardised datatables exported directly from EventMeasure observation files](https://globalarchivemanual.github.io/guide/eventmeasure-datatables) (.EMObs) annotated using the [EventMeasure](http://www.seagis.com.au/event.html) software from SeaGIS (Figure. 1). Validation of values and formats of spatial metadata and any datatables is conducted on import into GlobalArchive. In addition, any flat files (.csv or .txt) and any associated files (e.g. as a .zip) can also be uploaded and associated with the spatial metadata file. 
