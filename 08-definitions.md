@@ -1,8 +1,6 @@
 ---
 permalink: /definitions
 title: "Definitions"
-layout: single
-toc: true
 ---
 ### <a name="Sample"></a>Sample
 * Single observational unit (e.g. a single BRUV deployment or DOV transect).
