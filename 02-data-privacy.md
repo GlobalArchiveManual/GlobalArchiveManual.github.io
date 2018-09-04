@@ -1,6 +1,6 @@
 ---
 permalink: /data-privacy-and-sharing
-title: "Data Privacy and sharing agreements"
+title: "Data privacy and sharing agreements"
 ---
 ## Data Privacy
 All data uploaded to GlobalArchive is held securely within NeCTAR Cloud infrastructure and then encrypted within a secure industry standard database.
