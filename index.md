@@ -3,7 +3,7 @@ layout: home
 paginate: true
 alt_title: "GlobalArchive User Manual"
 sub_title: "A repository of ecological annotation"
-image: /Reef.jpg
+image: /Banner2.jpg
 actions:
   - label: "Get Started"
     icon: arrow-right
