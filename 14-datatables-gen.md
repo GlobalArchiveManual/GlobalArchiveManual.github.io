@@ -8,7 +8,7 @@ An example R workflow is provided, to create multiple YYYY-MM_Project.name_Metho
 
 * [Access database R workflow](https://drive.google.com/open?id=0B3r8G-BQG6W8ck8tN1pNclgyVXc)
 
-**The “Format” and “On import checks” described for the $Count.txt (Table 3), $Length.txt (Table 5) and $Mass.txt (Table 7) indicate the format and requirement of fields for the file to be successfully uploaded. **
+<i>The “Format” and “On import checks” described for the $Count.txt (Table 3), $Length.txt (Table 5) and $Mass.txt (Table 7) indicate the format and requirement of fields for the file to be successfully uploaded. </i>
 
 An example template for [$Count.txt](https://docs.google.com/spreadsheets/d/190Ury_ORjjUHicIDUQV4QwVsvrGqqdS9jlobgkV6C-o/edit?usp=sharing), [$Length.txt](https://docs.google.com/spreadsheets/d/1PtDiuVhesGo25D6GEMTLGZbzAJ6kjLjhE8KVkgy9us0/edit?usp=sharing) and [$Mass.txt](https://docs.google.com/spreadsheets/d/12XSnvSmXH9aq3vVlQvEtbUUypxY-Ycg5J1w14T23B-o/edit?usp=sharing) are provided, the head of which are shown in Tables 4, 6 and 8 respectively.
 
