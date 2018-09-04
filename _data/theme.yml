@@ -18,7 +18,7 @@ t:
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
-  posts: ""
+  posts: " "
   page: "Page"
   of: "of"
   min_read: "min read"
@@ -34,7 +34,6 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - 01-background.md
   - 02-data-privacy.md
   - 03-data-sharing-agreements.md
   - 04-objectives-and-case-study.md
