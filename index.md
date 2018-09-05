@@ -16,6 +16,7 @@ actions:
   - label: "Visit Github"
     icon: github
     url: "https://github.com/GlobalArchiveManual"
+    target: "_blank"
 ---
 ## GlobalArchive provides:
 * A secure archive of metadata and associated annotation or other data or files, with a focus on stereo techniques
