@@ -6,14 +6,14 @@ The Metadata file can be prepared in excel or google sheets and must be saved as
 
 **The “Format” and “On import checks” described in Table 1 indicate the format and requirement of fields for the YYYY-MM_Project.name_Method_Metadata.csv file to be successfully uploaded.**
 
-An example template is provided [here](https://docs.google.com/spreadsheets/d/10N9d1bSo7Y-DPvp7xigQwlzH68wZ8rR_LXIETSNGKTE/edit?usp=sharing), the head of which is shown in Table 2. Additional columns with project specific information can be added to the end of the sheet as required.
+An example template is provided <a href="https://docs.google.com/spreadsheets/d/10N9d1bSo7Y-DPvp7xigQwlzH68wZ8rR_LXIETSNGKTE/edit?usp=sharing" target= "_blank">here</a>, the head of which is shown in Table 2. Additional columns with project specific information can be added to the end of the sheet as required.
 
 Two example R workflows are provided, to create multiple $Metadata.csv files from either:
-* [GoogleSheet or excel files](https://drive.google.com/open?id=0B3r8G-BQG6W8WU1mQmdaUnFTSmc)
-* [Access database](https://drive.google.com/open?id=0B3r8G-BQG6W8ck8tN1pNclgyVXc)
+* <a href="https://drive.google.com/open?id=0B3r8G-BQG6W8WU1mQmdaUnFTSmc" target= "_blank">GoogleSheet or excel files</a>
+* <a href="https://drive.google.com/open?id=0B3r8G-BQG6W8ck8tN1pNclgyVXc" target= "_blank">Access database</a>
 
 And examples of how to fix common formatting issues for YYYY-MM_Project.name_Method_Metadata.csv files are given:
-* [Fix format issues in $Metadata.csv](https://drive.google.com/open?id=0B3r8G-BQG6W8TF9yVzJxU3Z3Qjg)
+* <a href="https://drive.google.com/open?id=0B3r8G-BQG6W8TF9yVzJxU3Z3Qjg" target= "_blank">Fix format issues in $Metadata.csv</a>
 
 **Table 1.** <i>Format of the $Metadata.csv file, note the tables described below are transposed (rows for columns) for formatting convenience. </i>
 <table class="simpleTable">
@@ -90,8 +90,7 @@ And examples of how to fix common formatting issues for YYYY-MM_Project.name_Met
 </table>
 <br>
 
-**Table 2.**<i> Head of example YYYY-MM_Project.name_Method_Metadata.csv file 
-([2015-01_Montes.transect-stereoBRUVs_Metadata.csv](https://docs.google.com/spreadsheets/d/10N9d1bSo7Y-DPvp7xigQwlzH68wZ8rR_LXIETSNGKTE/edit?usp=sharing)) </i><br>
+**Table 2.**<i> Head of example YYYY-MM_Project.name_Method_Metadata.csv file <a href="https://docs.google.com/spreadsheets/d/10N9d1bSo7Y-DPvp7xigQwlzH68wZ8rR_LXIETSNGKTE/edit?usp=sharing" target= "_blank"><i>2015-01_Montes.transect-stereoBRUVs_Metadata.csv</i></a></i><br>
 <table class="simpleTable">
   <tr>
     <th>Sample</th>
@@ -165,4 +164,4 @@ Changing the default program that opens .txt files to Excel may help with this p
 * For an EM/Stereo import, the “Sample” value must match the OpCode in EventMeasure exactly and is case sensitive. 
 
 TIP: To make sure these match use the list of OpCodes in the Info file to create your Metadata file (the Info file is exported during the EventMeasure datatable process outlined below). If any of these do not match open the corresponding .EMObs file in EventMeasure, edit the OpCode in the information field and save the file before exporting [datatables](https://globalarchivemanual.github.io/eventmeasure-datatables).
-* To fix formatting issues using R, see  [Fix format issues in $Metadata.csv](https://drive.google.com/open?id=0B3r8G-BQG6W8TF9yVzJxU3Z3Qjg)
+* To fix formatting issues using R, see  <a href="https://drive.google.com/open?id=0B3r8G-BQG6W8TF9yVzJxU3Z3Qjg" target= "_blank">Fix format issues in $Metadata.csv</a>
