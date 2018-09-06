@@ -39,7 +39,7 @@ navigation_pages:
   - 04-objectives-and-case-study.md
 #  - 05-using-this-guide.md
   - 06-typical-workflow.md
-#  - 07-summary-of-GlobalArchive.md
+  - pages/07-summary-of-GlobalArchive.md
   - 08-definitions.md
   - 09-user-access-and-sharing.md
   - 10-import-workflow.md
