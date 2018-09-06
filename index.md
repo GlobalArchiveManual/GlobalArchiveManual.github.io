@@ -18,6 +18,8 @@ actions:
     url: "https://github.com/GlobalArchiveManual"
     target: "_blank"
 ---
+<a href="https://github.com/GlobalArchiveManual" target="_blank" class="btn btn--primary">Visit Github</a>
+
 ## GlobalArchive provides:
 * A secure archive of metadata and associated annotation or other data or files, with a focus on stereo techniques
 * A standalone database for a [Project](https://globalarchivemanual.github.io/definitions#project)
