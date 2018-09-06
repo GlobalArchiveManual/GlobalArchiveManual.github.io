@@ -13,3 +13,5 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 .Rproj.user
+examplemanual.github.io.Rproj
+GlobalArchiveManual.github.io.Rproj
