@@ -17,7 +17,9 @@ actions:
     icon: github
     url: "https://github.com/GlobalArchiveManual"
 ---
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico" >
+</head>
 
 ## GlobalArchive provides:
 * A secure archive of metadata and associated annotation or other data or files, with a focus on stereo techniques
