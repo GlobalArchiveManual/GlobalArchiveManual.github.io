@@ -4,15 +4,15 @@ title: "Habitat data"
 ---
 The strongly recommend associated habitat data is imported a as point scores. Following this standard format:
 
-* [Point scores](https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM)
+* <a href="https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM" target= "_blank">Point scores</a>
 
-This example also include estimates of relief following these [methods](https://github.com/TimLanglois/HabitatAnnotation/blob/master/README.md). 
+This example also include estimates of relief following these <a href="https://github.com/TimLanglois/HabitatAnnotation/blob/master/README.md" target= "_blank">methods</a>. 
 
-For habitat annotation that has been conducted for stereo-BRUV or stereo-DOV deployments there are extensive instructions in this GitHub [repository](https://github.com/TimLanglois/HabitatAnnotation) and [R workflows](https://github.com/TimLanglois/HabitatAnnotation/blob/master/RWorkflow.md) for formatting the data outputs. In addition, for point score habitat annotations of stereo-DOV transects, multiple images are typically analysed throughout a transect and the “Transect” name should be included in the habitat data.
+For habitat annotation that has been conducted for stereo-BRUV or stereo-DOV deployments there are extensive instructions in this GitHub <a href="https://github.com/TimLanglois/HabitatAnnotation" target= "_blank">repository</a> and <a href="https://github.com/TimLanglois/HabitatAnnotation/blob/master/RWorkflow.md" target= "_blank">R workflows</a> for formatting the data outputs. In addition, for point score habitat annotations of stereo-DOV transects, multiple images are typically analysed throughout a transect and the “Transect” name should be included in the habitat data.
 
-The format and example templates for [$Habitat.point.score.txt](https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM) and are shown in Table 9 and Table 10. 
+The format and example templates for <a href="https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM" target= "_blank">$Habitat.point.score.txt</a> and are shown in Table 9 and Table 10. 
 
-**Table 9.** <i>Format of the [$Habitat.point.score.txt](https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM) file</i>
+**Table 9.** <i>Format of the <a href="https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM" target= "_blank">$Habitat.point.score.txt</a> file</i>
 <table class="simpleTable">
   <tr>
     <th>Name</th>
@@ -37,7 +37,7 @@ The format and example templates for [$Habitat.point.score.txt](https://drive.go
 </table>
 <br>
 
-**Table 10.** <i>Head of [$Habitat.point.score.txt](https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM)</i>
+**Table 10.** <i>Head of the <a href="https://drive.google.com/open?id=1wt48ftW7r_s4hIR3071Y8Dw6QSCIEY5ox0SVW_wrIwM" target= "_blank">$Habitat.point.score.txt</a> file</i>
 <table class="simpleTable">
   <tr>
     <th>Sample</th>
@@ -67,9 +67,9 @@ The format and example templates for [$Habitat.point.score.txt](https://drive.go
 <br>
 
 ##### <a name="Habitat-classes-from-historical-datasets"></a>Habitat classes from historical datasets
-We strongly encourage a standardised import of associated habitat information as point scores. However, for historical data sets you may also import habitat data as percent cover and or abiotic and biotic classes. We have not suggested any standards for these classes but examples are included here for [$Habitat.percent.cover.txt](https://drive.google.com/open?id=1JuPXGbkIVeaZqxxh_yAGHVdpicujFAcx8aYwWFP02xw) (Table 11 and 12) and  [$Habitat.classes.txt](https://drive.google.com/open?id=1Y9Ut5UOwHB5gvua8xWXNTlNERgAi26aypDkrAISXIHY) (see Table 13 and 14). For data synthesis, standardisation between habitat classes used will have to be made using a custom translation table that can be generated on a case-by-case basis.
+We strongly encourage a standardised import of associated habitat information as point scores. However, for historical data sets you may also import habitat data as percent cover and or abiotic and biotic classes. We have not suggested any standards for these classes but examples are included here for <a href="https://drive.google.com/open?id=1JuPXGbkIVeaZqxxh_yAGHVdpicujFAcx8aYwWFP02xw" target= "_blank">$Habitat.percent.cover.txt</a> (Table 11 and 12) and <a href="https://drive.google.com/open?id=1Y9Ut5UOwHB5gvua8xWXNTlNERgAi26aypDkrAISXIHY" target= "_blank">$Habitat.classes.txt</a> (see Table 13 and 14). For data synthesis, standardisation between habitat classes used will have to be made using a custom translation table that can be generated on a case-by-case basis.
 
-**Table 11.** <i>Format of the [$Habitat.percent.cover.txt](https://drive.google.com/open?id=1JuPXGbkIVeaZqxxh_yAGHVdpicujFAcx8aYwWFP02xw) file</i>
+**Table 11.** <i>Format of the <a href="https://drive.google.com/open?id=1JuPXGbkIVeaZqxxh_yAGHVdpicujFAcx8aYwWFP02xw" target= "_blank">$Habitat.percent.cover.txt</a> file</i>
 <table class="simpleTable">
   <tr>
     <th>Name</th>
@@ -89,7 +89,7 @@ We strongly encourage a standardised import of associated habitat information as
 </table>
 <br>
 
-**Table 12.** <i>Head of [$Habitat.percent.cover.txt](https://drive.google.com/open?id=1JuPXGbkIVeaZqxxh_yAGHVdpicujFAcx8aYwWFP02xw)
+**Table 12.** <i>Head of <a href="https://drive.google.com/open?id=1JuPXGbkIVeaZqxxh_yAGHVdpicujFAcx8aYwWFP02xw" target= "_blank">$Habitat.percent.cover.txt</a></i>
 <table class="simpleTable">
   <tr>
     <th>Sample</th>
@@ -118,7 +118,7 @@ We strongly encourage a standardised import of associated habitat information as
 </table>
 <br>
   
-**Table 13.** <i>Format of the [$Habitat.classes.txt](https://drive.google.com/open?id=1Y9Ut5UOwHB5gvua8xWXNTlNERgAi26aypDkrAISXIHY) file</i>
+**Table 13.** <i>Format of the <a href="https://drive.google.com/open?id=1Y9Ut5UOwHB5gvua8xWXNTlNERgAi26aypDkrAISXIHY" target= "_blank">$Habitat.classes.txt</a> file</i>
 <table class="simpleTable">
   <tr>
     <th>Name</th>
@@ -138,7 +138,7 @@ We strongly encourage a standardised import of associated habitat information as
 </table>
 <br>
   
-**Table 14.** <i>Head of [$Habitat.classes.txt](https://drive.google.com/open?id=1Y9Ut5UOwHB5gvua8xWXNTlNERgAi26aypDkrAISXIHY)</i>
+**Table 14.** <i>Head of <a href="https://drive.google.com/open?id=1Y9Ut5UOwHB5gvua8xWXNTlNERgAi26aypDkrAISXIHY" target= "_blank">$Habitat.classes.txt</a></i>
 <table class="simpleTable">
   <tr>
     <th>Sample</th>
