@@ -34,17 +34,17 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - 02-data-privacy.md
-#  - 03-data-sharing-agreements.md
-  - 04-objectives-and-case-study.md
-#  - 05-using-this-guide.md
-  - 06-typical-workflow.md
-  - pages/07-summary-of-GlobalArchive.md
-  - 08-definitions.md
-  - 09-user-access-and-sharing.md
-  - 10-import-workflow.md
-  - 11-create-metadata.md
-  - 12-campaign-info.md
-  - 13-datatables-EM.md
-  - 14-datatables-gen.md
-  - 15-habitat.md
+  - pages/02-data-privacy.md
+#  - pages/03-data-sharing-agreements.md
+  - pages/04-objectives-and-case-study.md
+#  - pages/05-using-this-guide.md
+  - pages/06-typical-workflow.md
+#  - pages/07-summary-of-GlobalArchive.md
+  - pages/08-definitions.md
+  - pages/09-user-access-and-sharing.md
+  - pages/10-import-workflow.md
+  - pages/11-create-metadata.md
+  - pages/12-campaign-info.md
+  - pages/13-datatables-EM.md
+  - pages/14-datatables-gen.md
+  - pages/15-habitat.md
