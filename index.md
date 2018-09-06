@@ -17,7 +17,6 @@ actions:
     icon: github
     url: "https://github.com/GlobalArchiveManual"
 ---
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"><br>
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
 ## GlobalArchive provides:
