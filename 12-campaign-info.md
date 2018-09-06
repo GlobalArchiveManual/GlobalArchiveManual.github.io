@@ -9,4 +9,4 @@ For each Campaign, additional Campaign information on the Sampling and Annotatio
 2. USEFULLY, for subsequent Campaign uploads, this list will be **pre-populated** by your browser and any changes can be made before the Campaign Information is uploaded. **This will speed up the process**.
 
 ##### <a name="Campaign-information-PROPERTIES-and-VALUES"></a>Campaign information PROPERTIES and VALUES
-The existing predefined PROPERTIES and VALUES can be seen [here](https://drive.google.com/open?id=1JI2L9AczaljbFpbv9yYRRnfmWSaZ3SsSK27D3-OEh64). If you would like to add any further PROPERTIES and VALUES, please contact the [administrator](timothy.langlois@uwa.edu.au). 
+The existing predefined PROPERTIES and VALUES can be seen <a href="https://drive.google.com/open?id=1JI2L9AczaljbFpbv9yYRRnfmWSaZ3SsSK27D3-OEh64" target= "_blank">here</a>. If you would like to add any further PROPERTIES and VALUES, please contact the [administrator](mailto:timothy.langlois@uwa.edu.au). 
